@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
@@ -186,8 +186,7 @@ export default function Home() {
               company: "Rothschild Holdings",
               rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32pj8e1GcgiOEWWC6aYveoEdoWX/uploaded-1763463269376-ei7gzzbr.jpg",
-              imageAlt: "Alexander Rothschild portrait",
-              testimonial: "Absolutely exceptional timepieces with unparalleled craftsmanship and attention to detail."
+              imageAlt: "Alexander Rothschild portrait"
             },
             {
               id: "2",
@@ -196,8 +195,7 @@ export default function Home() {
               company: "Sterling Galleries",
               rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32pj8e1GcgiOEWWC6aYveoEdoWX/uploaded-1763463270246-awofgh5v.jpg",
-              imageAlt: "Victoria Sterling portrait",
-              testimonial: "The artistry in each Jacob & Co piece is simply breathtaking. True works of art."
+              imageAlt: "Victoria Sterling portrait"
             },
             {
               id: "3",
@@ -206,8 +204,7 @@ export default function Home() {
               company: "Beaumont & Associates",
               rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32pj8e1GcgiOEWWC6aYveoEdoWX/uploaded-1763463270874-trit3rtn.jpg",
-              imageAlt: "Marcus Beaumont portrait",
-              testimonial: "An investment in horological excellence. The quality and innovation are unmatched."
+              imageAlt: "Marcus Beaumont portrait"
             },
             {
               id: "4",
@@ -216,8 +213,7 @@ export default function Home() {
               company: "Montclair Capital",
               rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32pj8e1GcgiOEWWC6aYveoEdoWX/uploaded-1763463272010-ujz2g9li.jpg",
-              imageAlt: "Isabella Montclair portrait",
-              testimonial: "These timepieces represent the pinnacle of luxury and craftsmanship in the industry."
+              imageAlt: "Isabella Montclair portrait"
             },
             {
               id: "5",
@@ -226,8 +222,7 @@ export default function Home() {
               company: "Wellington Estate",
               rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32pj8e1GcgiOEWWC6aYveoEdoWX/uploaded-1763463272722-8kzlob9x.jpg",
-              imageAlt: "Charles Wellington portrait",
-              testimonial: "Every Jacob & Co watch in my collection is a masterpiece of mechanical engineering."
+              imageAlt: "Charles Wellington portrait"
             },
             {
               id: "6",
@@ -236,8 +231,7 @@ export default function Home() {
               company: "Blackwood Luxury",
               rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32pj8e1GcgiOEWWC6aYveoEdoWX/uploaded-1763463273432-jdhylxos.jpg",
-              imageAlt: "Sophia Blackwood portrait",
-              testimonial: "The ultimate expression of luxury and sophistication. Truly extraordinary timepieces."
+              imageAlt: "Sophia Blackwood portrait"
             }
           ]}
         />

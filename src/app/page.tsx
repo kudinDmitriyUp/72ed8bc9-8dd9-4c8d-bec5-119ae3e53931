@@ -58,7 +58,7 @@ export default function Home() {
               imageAlt: "Gold luxury watch"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32pj8e1GcgiOEWWC6aYveoEdoWX/uploaded-1763463264153-dfvov8kt.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32pj8e1GcgiOEWWC6aYveoEdoWX/uploaded-1763463856143-yxdo4z4m.jpg",
               imageAlt: "Watch collection display"
             }
           ]}
